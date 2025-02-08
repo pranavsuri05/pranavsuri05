@@ -62,7 +62,7 @@
 </div>
 
 ###
-**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
 
 
@@ -71,4 +71,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavsuri05" alt="pranavsuri05" /></a> </p>
 
 
--->
