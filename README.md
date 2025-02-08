@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 And also I'm a 2nd year B.Tech student.<br>- 📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
+<p align="left">So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 A 2nd year Computer Science B.Tech student.<br>- 📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
 
 ###
 <!--
