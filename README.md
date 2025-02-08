@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Pranav Suri</h1>
+<h1 align="center">Hi Guys👋, I'm Pranav Suri</h1>
 <h3 align="center">A tech enthusiast honing skills in DSA, AI/ML, and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
