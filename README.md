@@ -24,14 +24,14 @@
 
 ###
 
-<p align="left">I'm Pranav from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 I’m a 2nd year B.Tech student.<br>- 📚 I'm a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 And also I'm a 2nd year B.Tech student.<br>- 📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
 
 ###
 <!--
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />
