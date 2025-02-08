@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">  About Me</h3>
 
 ###
 
-<p align="left">I'm Pranav from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning </p>
+<p align="left">I'm Pranav from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 I’m a 2nd year B.Tech student.<br>- 📚 I'm a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
 
 ###
 
