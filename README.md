@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-<h1>So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) </h1><br> <h2><br>- 🔭 A 2nd year Computer Science B.Tech student.</h2><br>- <h3>📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </h3>
+<h1>So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) </h1> <h2>< 🔭 A 2nd year Computer Science B.Tech student.</h2><h3>📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </h3>
 <!--
 <h3 align="left">🛠 Language and tools</h3>
 ###
