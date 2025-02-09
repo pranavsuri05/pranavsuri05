@@ -6,8 +6,7 @@
          alt="LinkedIn Profile">
 </a>
 <div align="center">
-  <p> Total views 👀   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  /></p>
- <p align="left"> ✨ Views Today   <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
+  <p> Total visitors 👀 :   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  /> ||  Visits Today ✨ :  <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
 </div>
 
 <h1>So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) </h1> <h2>< 🔭 A 2nd year Computer Science B.Tech student.</h2><h3>📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </h3>
