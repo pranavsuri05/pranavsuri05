@@ -4,7 +4,7 @@
  <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
          alt="LinkedIn Profile">
-</a> <br>
+</a> <hr>
 <div align="center">
   <p> Total visitors 👀 :   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  /> ||  Visits Today ✨ :  <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
 </div>
