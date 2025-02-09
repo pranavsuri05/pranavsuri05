@@ -1,3 +1,8 @@
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<br>
 <h1 align="center">hey there 👋</h1>
 <div align="center">
  <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank">
