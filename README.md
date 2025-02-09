@@ -33,9 +33,9 @@
 </div>
 -->
 <h3 align="left">🔥   My Stats :</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pranavsuri05&theme=highcontrast&hide_border=true&locale=en" alt="GitHub Streak Stats"/>
+</p>
 <!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsuri05&show_icons=true&locale=en" alt="pranavsuri05" /></p>
