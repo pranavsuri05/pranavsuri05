@@ -39,6 +39,6 @@
 </p>
 <!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavsuri05&show_icons=true&locale=en" alt="pranavsuri05" /></p>
+
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavsuri05" alt="pranavsuri05" /></a> </p>
