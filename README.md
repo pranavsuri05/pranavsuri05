@@ -19,11 +19,7 @@
 
 ###
 
-<h3 align="left">  About Me</h3>
-
-###
-
-<p align="left">So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) <br><br>- 🔭 A 2nd year Computer Science B.Tech student.<br>- 📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
+<h1>align="left">So yea I'm Pranav Suri from Maharaja Agrasen Institute of Technology(GGSIPU) </h1><br> <p> <br>- 🔭 A 2nd year Computer Science B.Tech student.<br>- 📚 ALL In All a tech enthusiast currently honing skills in DSA, AI/ML, and Web Development </p>
 
 ###
 <!--
