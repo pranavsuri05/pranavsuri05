@@ -33,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 -->
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 MY STATS>> </h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pranavsuri05&theme=highcontrast&hide_border=true&locale=en" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuri05&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak Stats"/>
 </p>
 <!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
