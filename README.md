@@ -1,6 +1,6 @@
 
 <h1 align="center">hey there! 👋</h1>
-<div align="center">
+<div align="center"> <h1>Connect on LinkedIn 👇 </h2>
  <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
          alt="LinkedIn Profile">
