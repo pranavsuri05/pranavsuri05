@@ -36,7 +36,6 @@
 <h3 align="left">🔥 MY STATS>> </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuri05&theme=tokyonight" alt="GitHub Stats"/>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavsuri05" alt="GitHub Streak Stats"/> 
 </p>
 
 <!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
