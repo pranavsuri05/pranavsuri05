@@ -38,7 +38,7 @@
   <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pranavsuri05" alt="GitHub Streak Stats"/>
   >>>
    
-  <img src="https://streak-stats.demolab.com?user=pranavsuri05&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats"/> 
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pranavsuri05" alt="GitHub Streak Stats"/> 
 </p>
 
 <!--**pranavsuri05/pranavsuri05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
