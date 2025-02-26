@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 -->
-<h3 align="left">🔥 MY STATS>> </h3>
+<h3 align="left">🔥 My Most Used Languages >> </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuri05&theme=tokyonight" alt="GitHub Stats"/>
 </p>
