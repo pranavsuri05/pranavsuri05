@@ -1,6 +1,6 @@
 
 <h1 align="center">hey there! 👋</h1>
-<div align="center"> <h1>If you’d like to grab a drink or build something cool together, connect with me! 👇 </h2>
+<div align="center"> <h2>If you’d like to grab a drink or build something cool together, connect with me! 👇 </h2>
  <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
          alt="LinkedIn Profile">
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 -->
-<h3 align="left">🔥 My Most Used Languages >> </h3>
+<h3 align="left">🔥 Some of my Most Used Languages >> </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuri05&theme=tokyonight" alt="GitHub Stats"/>
 </p>
