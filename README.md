@@ -1,11 +1,11 @@
 
 <h1 align="center">hey there! 👋</h1>
 <div align="center"> <h2>If you’d like to  build something together or work on solving some problem then,</h2>
- connect with me! 👇 
- <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank">
+ <h1>Connect with me! 👉
+ <a href="https://www.linkedin.com/in/pranavsuri1/" target="_blank"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
          alt="LinkedIn Profile">
-</a> <hr>
+</a> </h1> <hr>
 <div align="center">
   <p> Total visitors 👀 :   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/> </p> 
 <h6>just kidding it increments the count for every interaction on the page.🤪🤪 </h6>
