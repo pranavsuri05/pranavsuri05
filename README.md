@@ -58,7 +58,6 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pranavsuri05&abbreviated=true" /><br/>
   <a href="https://github.com/pranavsuri05">
     <img src="https://github-readme-stats.vercel.app/api?username=pranavsuri05&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavsuri05&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
