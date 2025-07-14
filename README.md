@@ -1,4 +1,4 @@
-<!-- <h1 align="center"> Hi, I'm Pranav Suri 👋</h1>
+ <h1 align="center"> Hi, I'm Pranav Suri 👋</h1>
 <h3 align="center">An Enthusiastic AI/ML and Web Developer from India</h3>
 
 <a href="https://git.io/typing-svg">
@@ -65,4 +65,3 @@
 </p> 
 
 ![Contributions](https://ssr-contributions-svg.vercel.app/_/pranavsuri05?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40)
--->
