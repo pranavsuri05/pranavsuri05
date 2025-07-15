@@ -7,9 +7,9 @@
 
 <img align="right" alt="developer" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" />
-</p>
+</p>   -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
