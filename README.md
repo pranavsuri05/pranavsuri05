@@ -54,14 +54,14 @@
 
 ### 📊 GitHub Stats:
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/pranavsuri05">
     <img src="https://github-readme-stats.vercel.app/api?username=pranavsuri05&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true"/>
-  <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsuri05&theme=blue-green&hide_border=true"/>  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsuri05&theme=blue-green&hide_border=true"/>  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavsuri05&theme=blue_green"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavsuri05&theme=blue_green"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavsuri05&theme=blue_green"/> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavsuri05&theme=blue_green&utcOffset=8"/>
   </a>
-</p> 
+</p> -->
 
 <!-- ![Contributions](https://ssr-contributions-svg.vercel.app/_/pranavsuri05?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40) -->
