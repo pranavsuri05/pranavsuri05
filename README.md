@@ -1,5 +1,5 @@
  <h1 align="center"> Hi, I'm Pranav Suri 👋</h1>
-<h3 align="center">An Enthusiastic AI/ML and Web Developer from India</h3>
+<h3 align="center">An Enthusiastic AI/ML and Software Developer from India</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8151F7&width=435&lines=Building+AI+Projects;Exploring+Web+Dev+and+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
