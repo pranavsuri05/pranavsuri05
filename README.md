@@ -7,9 +7,9 @@
 
 <img align="right" alt="developer" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
-<!-- <p align="left">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pranavsuri05&label=Profile%20views&color=0e75b6&style=flat" alt="pranavsuri05" />
-</p>   -->
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,16 +52,13 @@
   </a>
 </p>
 
-<!-- ### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <p align="left">
   <a href="https://github.com/pranavsuri05">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranavsuri05&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavsuri05&theme=blue-green&hide_border=true"/>  
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavsuri05&theme=blue_green"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavsuri05&theme=blue_green"/> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavsuri05&theme=blue_green&utcOffset=8"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavsuri05&theme=blue_green"/>
   </a>
-</p> -->
+</p> 
 
-<!-- ![Contributions](https://ssr-contributions-svg.vercel.app/_/pranavsuri05?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40) -->
+![Contributions](https://ssr-contributions-svg.vercel.app/_/pranavsuri05?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40)
