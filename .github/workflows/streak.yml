@@ -1,0 +1,40 @@
+name: Update GitHub streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-streak
+  cancel-in-progress: true
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.0
+        with:
+          options: user=pranavsuri05&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=A855F7&currStreakLabel=00F7FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&disable_animations=true
+          path: profile/streak.svg
+          # Optional. Falls back to the built-in GITHUB_TOKEN when the secret is not set.
+          token: ${{ secrets.STREAK_STATS_TOKEN || github.token }}
+
+      - name: Commit only when the SVG changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak SVG unchanged; nothing to commit."
+          else
+            git commit -m "Update GitHub streak"
+            git push
+          fi
