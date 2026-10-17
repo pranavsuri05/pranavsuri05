@@ -20,7 +20,7 @@
 
 ```ts
 const pranav = {
-  role:      "Final-year B.Tech CSE, Maharaja Agrasen Institute of Technology (GGSIPU)",
+  role:      "Final-year B.Tech CS, Maharaja Agrasen Institute of Technology (GGSIPU)",
   graduation: 2027,
   cgpa:      "9.27 / 10",
   focus:     ["Multi-agent systems", "RAG", "LLM applications", "Backend APIs"],
